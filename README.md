@@ -1,21 +1,21 @@
-#Rock Paper Scissors
+#Rock Paper Scissors:
 A simple Rock Paper Scissors game built with Python and Tkinter.
 
-#Getting Started
+#Getting Started:
 To run the game, clone the repository and run the main.py file:
 
-#How to Play
+#How to Play:
 The game is played by selecting one of the three options: Rock, Paper, or Scissors. After making a selection, the game will play against the AI and display the result of the game. The game follows the standard Rock Paper Scissors rules:
 
 Rock beats Scissors
 Scissors beats Paper
 Paper beats Rock
-Built With
+Built With:
 Python 3
 Tkinter
-Author
+Author:
 Jonadab Emeribe
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
 
